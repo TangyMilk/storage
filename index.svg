@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1920 1080" style="background:#000">
+  <title>Deltamath</title>
+  <foreignObject id="fo" x="0" y="0" width="1920" height="1080">
+    <div xmlns="http://www.w3.org/1999/xhtml" id="wrap" style="width:100%;height:100%;margin:0;background:#000;color:#fff;--bg-color:#000000;--text-color:#ffffff;font-weight:600;overflow:hidden">
+      <style id="ld-css">html{background:#000}body{--bg-color:#000000;--text-color:#ffffff;margin:0;height:100vh;overflow:hidden;background:var(--bg-color);color:var(--text-color);font-weight:600}*,body{font-family:var(--font,"Comfortaa",sans-serif)!important}#loading-screen{position:fixed;inset:0;width:100vw;height:100vh;background-color:var(--bg-color,#000000);color:var(--text-color,#ffffff);display:flex;flex-direction:column;justify-content:center;align-items:center;gap:1.4rem;z-index:999999;contain:layout paint}#loading-screen::before{content:"";position:absolute;inset:0;background:none}#loading-screen>*{position:relative}.ld-logo{width:8rem;height:8rem;overflow:visible}.ld-core{transform-origin:50px 50px}.ld-word,.ld-bar{display:none}.ld-status{font-size:.65rem;letter-spacing:.3em;text-transform:uppercase;opacity:.5;min-height:1.2em}#loading-screen.hidden{opacity:0;visibility:hidden;pointer-events:none}</style>
+      <style id="ld-static">html{background:#000!important}#loading-screen>*{opacity:1!important;animation:none!important}#loading-screen::before{animation:none!important}</style>
+      <style>#popup-message{display:none;position:fixed;left:50%;top:50%;transform:translate(-50%,-50%);z-index:1000000;width:min(420px,86vw);text-align:center;color:#fff;font-family:"Comfortaa","Segoe UI",system-ui,sans-serif}#popup-message h2{margin:0 0 .9rem;font-size:.8rem;font-weight:600;letter-spacing:.5em;text-indent:.5em;text-transform:uppercase}#popup-message p{margin:0;font-size:.75rem;line-height:1.7;letter-spacing:.08em;opacity:.5}</style>
+      <div id="ld-src" style="display:none"><div id="loading-screen"><svg class="ld-logo" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <g class="ld-core" fill="currentColor"><path d="M31 72L50 27L69 72M38.5 58H61.5" fill="none" stroke="currentColor" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round"/><g><animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="1.2s" repeatCount="indefinite"/><g fill="none" stroke="currentColor" stroke-linecap="round"><path d="M78.6 16.8L87.6 26.4" stroke-width="0.60" opacity="0.09"/><path d="M87.6 26.4L93.0 37.9" stroke-width="0.70" opacity="0.11"/><path d="M93.0 37.9L94.5 50.3" stroke-width="0.80" opacity="0.12"/><path d="M94.5 50.3L91.9 62.3" stroke-width="0.90" opacity="0.15"/><path d="M91.9 62.3L85.6 72.9" stroke-width="1.00" opacity="0.17"/><path d="M85.6 72.9L76.3 81.3" stroke-width="1.10" opacity="0.20"/><path d="M76.3 81.3L64.8 86.6" stroke-width="1.20" opacity="0.23"/><path d="M64.8 86.6L52.3 88.6" stroke-width="1.30" opacity="0.26"/><path d="M52.3 88.6L39.8 87.0" stroke-width="1.40" opacity="0.29"/><path d="M39.8 87.0L28.6 82.2" stroke-width="1.50" opacity="0.32"/><path d="M28.6 82.2L19.5 74.5" stroke-width="1.60" opacity="0.36"/><path d="M19.5 74.5L13.4 64.9" stroke-width="1.70" opacity="0.39"/><path d="M13.4 64.9L10.8 54.2" stroke-width="1.80" opacity="0.43"/><path d="M10.8 54.2L11.7 43.3" stroke-width="1.90" opacity="0.47"/><path d="M11.7 43.3L16.0 33.3" stroke-width="2.00" opacity="0.51"/><path d="M16.0 33.3L23.3 25.1" stroke-width="2.10" opacity="0.55"/><path d="M23.3 25.1L32.8 19.4" stroke-width="2.20" opacity="0.59"/><path d="M32.8 19.4L43.6 16.5" stroke-width="2.30" opacity="0.63"/><path d="M43.6 16.5L54.6 16.7" stroke-width="2.40" opacity="0.67"/><path d="M54.6 16.7L65.0 19.9" stroke-width="2.50" opacity="0.72"/><path d="M65.0 19.9L73.7 25.7" stroke-width="2.60" opacity="0.76"/><path d="M73.7 25.7L80.1 33.5" stroke-width="2.70" opacity="0.81"/><path d="M80.1 33.5L83.5 42.6" stroke-width="2.80" opacity="0.85"/><path d="M83.5 42.6L83.9 52.1" stroke-width="2.90" opacity="0.90"/><path d="M83.9 52.1L81.2 61.1" stroke-width="3.00" opacity="0.95"/><path d="M81.2 61.1L75.8 68.9" stroke-width="3.10" opacity="1.00"/></g><polygon points="80.7,72.7 76.0,70.6 72.0,73.7 74.2,69.1 71.0,65.0 75.7,67.2 79.7,64.0 77.5,68.7" fill="currentColor"/></g></g>
+        </svg><div class="ld-word">Anomaly</div><div class="ld-bar"><div class="ld-fill" id="ld-fill"></div></div><div style="display:none" class="ld-status" id="ld-status">Loading</div></div>
+      </div><div id="popup-message"><h2>Allow pop-ups</h2><p>Enable pop-ups for this site in the address bar, then click anywhere to continue.</p></div>
+      <script>
+//<![CDATA[
+(function () {
+  var svg = document.documentElement, fo = document.getElementById('fo');
+  function size() {
+    var w = window.innerWidth, h = window.innerHeight;
+    svg.setAttribute('width', w); svg.setAttribute('height', h);
+    svg.setAttribute('viewBox', '0 0 ' + w + ' ' + h);
+    fo.setAttribute('width', w); fo.setAttribute('height', h);
+  }
+  size(); window.addEventListener('resize', size);
+  if (window.name === 'classroomSession') return;
+
+  window.addEventListener('beforeunload', function (e) {
+    if (window.__leaving) return;
+    e.preventDefault(); e.returnValue = '';
+  });
+
+  var REPO = 'TangyMilk/storage', TITLE = 'Deltamath';
+  var FONT = 'https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap';
+  var CSS = document.getElementById('ld-css').textContent;
+  var STATIC = document.getElementById('ld-static').textContent;
+  var LOADER = new XMLSerializer().serializeToString(document.getElementById('loading-screen'));
+  var SHELL = '<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>' + TITLE +
+    '</title><link rel="stylesheet" href="' + FONT + '"><style>' + CSS + STATIC + '</style></head><body>' + LOADER + '</body></html>';
+
+  var pop = null, started = false;
+  function guard(e) { if (pop && pop.__sgReloading) return; e.preventDefault(); e.returnValue = ''; }
+  function arm() { try { pop.addEventListener('beforeunload', guard); } catch (e) {} }
+  function msg(show) { document.getElementById('popup-message').style.display = show ? 'block' : 'none'; }
+  function status(t) {
+    try { var s = pop.document.getElementById('ld-status'); s.textContent = t; s.style.display = 'block'; } catch (e) {}
+  }
+
+  function paint() {
+    pop.name = 'classroomSession';
+    pop.document.open(); pop.document.write(SHELL); pop.document.close();
+    arm();
+  }
+
+  function start() {
+    if (started) return;
+    var w = null;
+    try { w = window.open('about:blank', '_blank', 'width=1000,height=700'); } catch (e) { w = null; }
+    if (!w || w.closed || typeof w.closed === 'undefined') { msg(true); return; }
+    pop = w; started = true; msg(false);
+    paint(); load();
+  }
+
+  async function pinned() {
+    try {
+      var r = await fetch('https://api.github.com/repos/' + REPO + '/commits/main');
+      if (r.ok) { var d = await r.json(); if (d && d.sha) return d.sha; }
+      else {
+        var a = await fetch('https://data.jsdelivr.com/v1/packages/gh/' + REPO + '/resolved?specifier=main&t=' + Date.now());
+        if (a.ok) { var j = await a.json(); if (j && /^[0-9a-f]{40}$/i.test(j.version)) return j.version; }
+      }
+    } catch (e) {}
+    return 'main';
+  }
+
+  var gen = 0;
+  async function load() {
+    var my = ++gen;
+    var v = await pinned();
+    var mirrors = [
+      'https://cdn.jsdelivr.net/gh/' + REPO + '@' + v + '/',
+      'https://raw.githubusercontent.com/' + REPO + '/' + v + '/',
+      'https://raw.githack.com/' + REPO + '/' + v + '/',
+      'https://cdn.statically.io/gh/' + REPO + '/' + v + '/',
+      ''
+    ];
+    for (var i = 0; i < mirrors.length; i++) {
+      try {
+        var res = await fetch(mirrors[i] + 'index.html?studyTime=' + Date.now());
+        if (!res.ok) throw 0;
+        var txt = await res.text(); if (my !== gen) return; return show(txt, mirrors[i] + 'index.html');
+      } catch (e) {}
+    }
+    status('Connection blocked');
+  }
+
+  function show(content, url) {
+    if (!pop || pop.closed) return;
+    var add = '<base href="' + url + '"><style>' + STATIC + '</style>';
+    var html = /<head[^>]*>/i.test(content) ? content.replace(/<head[^>]*>/i, function (m) { return m + add; }) : add + content;
+    pop.document.open(); pop.document.write(html); pop.document.close();
+    arm();
+    window.__leaving = true;
+    try { window.close(); } catch (e) {}
+    setTimeout(function () { window.location.replace('https://google.com'); }, 300);
+  }
+
+  document.addEventListener('click', start);
+  var gate = false;
+  try { gate = !window.crossOriginIsolated && 'serviceWorker' in navigator && !sessionStorage.getItem('coi-tried'); } catch (e) {}
+  if (gate) {
+    try { sessionStorage.setItem('coi-tried', '1'); } catch (e) {}
+    navigator.serviceWorker.register(new URL('coi-sw.js', location.href).href)
+      .then(function () { return navigator.serviceWorker.ready; })
+      .then(function () { window.__leaving = true; location.reload(); })
+      .catch(function () { start(); });
+  } else start();
+})();
+//]]>
+      </script>
+    </div>
+  </foreignObject>
+</svg>
